@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Julia  - aka JulNika
-#Data scientist and IT news writer from Russia (Moscow)
+# Data scientist and IT news writer from Russia (Moscow)
 
 - 🌱 I’m currently learning MS Power BI
 - 📫 How to reach me: use TG @yulia_nika or w/a +7-963-997-10-13
