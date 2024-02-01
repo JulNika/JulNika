@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Julia
+### Hi there 👋 I'm Julia  - aka JuliaNika
 Data scientist and IT news writer from Russia (Moscow)
 
 - 🌱 I’m currently learning MS Power BI
