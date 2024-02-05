@@ -17,3 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+*About me:*
+The main experience is training projects in the specialty Data scientist. Thanks to previous jobs, they understand accounting, IFRS, budgeting and the advertising business.
+I like working with data, experimenting, and I can switch from the business language to Python and back.
+
+
+
+
